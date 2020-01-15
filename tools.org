@@ -1,0 +1,16 @@
+* tools
+john for hashes
+
+lookupsid.py
+
+Evilwinrm
+
+procdump to dump memory then strings look for password
+
+https://gtfobins.github.io/#+bind%20shell
+
+Payload all the things
+
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+** kerberoast
