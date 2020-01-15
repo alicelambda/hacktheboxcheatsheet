@@ -1,0 +1,45 @@
+* xss auditor fool xss auditor
+
+ 
+<script> alert("
+
+");</script>
+
+Insert javascript into parameters
+
+<img src=x onerror=alert(1)>
+
+0x400600 printf
+0x400670 scanf
+0x400630 strcmp
+
+occurences
+
+   0x40090d
+   0x400961
+
+jumped over instruction
+
+* Google dorking
+
+cache: null-byte
+
+allintext:username filetype:log
+
+inurl:/proc/self/cwd
+
+intitle:"index of" inurl:ftp
+
+intitle:"webcamXP 5"
+
+db_password filetype:env
+
+filetype:inc php -s
+
+* Shodan
+
+Twitter
+
+shodan
+
+kodie kinz
